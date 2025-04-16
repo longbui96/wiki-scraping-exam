@@ -1,0 +1,22 @@
+{
+  "name": "wiki-scraping-exam",
+  "description": "A simple CLI tool that scrapes data from a Wikipedia table and generates a line chart image using Chart.js",
+  "author": "Long Bui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "vitest"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "chartjs-node-canvas": "^5.0.0",
+    "cheerio": "^1.0.0",
+    "dayjs": "^1.11.13"
+  },
+  "devDependencies": {
+    "vitest": "^3.1.1"
+  }
+}
