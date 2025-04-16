@@ -13,7 +13,7 @@ A simple CLI tool that scrapes data from a Wikipedia table and generates a line 
 ### 1. Clone the repo
 
 ```bash
-git clone git@github.com:longbui96/wiki-scraping-exam.git
+git clone https://github.com/longbui96/wiki-scraping-exam.git
 cd wiki-scraping-exam
 ```
 
